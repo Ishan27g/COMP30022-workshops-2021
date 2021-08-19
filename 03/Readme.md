@@ -12,11 +12,11 @@ It will be helpful to me if you could add your team's name infront of your zoom 
 
 |Team Name|Communication Channel|Code Repository|Documentation|Task Management|
 --|--|--|--|--|
-|AOS|Discord|Github|Confluence|-|
-|AITI|Ms Teams|-|Ms Teams|Ms Teams|
-|Nuggets|-|Github|Confluence|Jira|
-|Unisoft|-|-|-|-|
-|Wabby Wabbo|Ms Teams|Github|Ms Teams|Ms Teams|
+|AOS|Discord|Github|Confluence + G-drive|clickup|
+|AITI|Ms Teams|Github|Ms Teams|Ms Teams|
+|Nuggets|Discord|Github|Confluence|Jira|
+|Unisoft|Ms Teams|Github|Ms Teams|Trello invite pending|
+|Wabby Wabbo|Ms Teams|Github|Ms Teams|Github Projects|
 
 `Any difficulties in setting up tools?`
 
