@@ -1,4 +1,4 @@
-# COMP30022 Workshop 7
+# COMP30022 Workshop 8
 
 - Start at 12:05, please turn cameras on.
 
@@ -17,6 +17,8 @@ It will be quicker to sort breakout rooms if you add your team's name infront of
 ## Week 9 Checklist
 
 Due **1st Oct**
+
+### Important items
 
 - [ ] Update Team documents - meeting minutes (follow template, include any decisions made), task assignments
 - [ ] Update any requirement docs that have changed (mention them in the checklist)
@@ -45,8 +47,6 @@ Due **1st Oct**
 - [ ] Deployment diagram
 - [ ] Minimal CI/CD pipeline description document
 - [ ] Coding standards doc
-
-`examples`
 
 ## Team updates
 
